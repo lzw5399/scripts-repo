@@ -1,2 +1,2 @@
-# ScriptsRepo
-Used to store various scripts
+# scripts-repo
+Used to store scripts
